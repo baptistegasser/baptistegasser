@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Baptiste Gasser 🇫🇷
+![](https://visitor-badge.laobi.icu/badge?page_id=baptistegasser)
+[![Github](https://img.shields.io/github/followers/baptistegasser?label=Follow&style=social)](https://github.com/baptistegasser)
 
-<!--
-**baptistegasser/baptistegasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm an Computer Scicence student at the University of Aix-Marseille
 
-Here are some ideas to get you started:
+_more coming soon_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Github stats
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=baptistegasser&count_private=true&theme=calm&show_icons=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=baptistegasser&count_private=true&theme=calm&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=baptistegasser&theme=calm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptistegasser&theme=calm" />
+</a>
+</div>
