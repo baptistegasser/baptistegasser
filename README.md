@@ -15,3 +15,6 @@ _more coming soon_
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptistegasser&theme=calm" />
 </a>
 </div>
+
+<!-- this is a test  -->
+![a test svg](./test.svg)
