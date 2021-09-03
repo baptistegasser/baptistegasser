@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
 <a href="https://linkedin.com/in/baptiste-gasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baptiste-gasser" height="30" width="40" /></a>  
-<a href="https://www.codingame.com/profile/b43889a5a602897dc0293570e1ec24f04951792" target="blank"><img align="center" src="codingame.png" alt="baptisteg" height="30" width="40" /></a>  
+<a href="https://www.codingame.com/profile/b43889a5a602897dc0293570e1ec24f04951792" target="blank"><img align="center" src="codingame.png" alt="baptisteg" height="30" width="180" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
